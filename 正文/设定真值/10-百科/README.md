@@ -15,16 +15,11 @@
 | [ORG-HELIOS](组织/ORG-HELIOS-赫利俄斯集团.md) | 赫利俄斯集团 |
 | [ORG-HRDEPT](组织/ORG-HRDEPT-社区事务人事部.md) | 社区事务人事部 |
 | [ORG-HRDEPT-SCO](组织/ORG-HRDEPT-SCO-特殊综合行动小组.md) | 特殊综合行动小组 |
-| [ORG-GANG-WOLF](组织/ORG-GANG-WOLF-狼群帮.md) | 狼群帮 |
+| [ORG-GANG-WOLF](组织/ORG-GANG-WOLF-狼群.md) | “狼群” |
 | [ORG-GANG-HYENA](组织/ORG-GANG-HYENA-鬣狗帮.md) | 鬣狗帮 |
-| [ORG-GANG-LEOPARD](组织/ORG-GANG-LEOPARD-花豹帮.md) | 花豹帮 |
+| [ORG-GANG-LEOPARD](组织/ORG-GANG-LEOPARD-花豹党.md) | 花豹党 |
 | [ORG-REBEL](组织/ORG-REBEL-反抗军.md) | 反抗军 |
 | [PLC-DISTRICT](地点/PLC-DISTRICT-街区分层与层级.md) | 街区分层与层级（总述） |
-| [PLC-CONTRACTHALL](地点/PLC-CONTRACTHALL-合同大厅.md) | 合同大厅 |
-| [PLC-MAINTENANCE](地点/PLC-MAINTENANCE-维修井口与暗面通道.md) | 维修井口与暗面通道 |
-| [PLC-DATAPAWN](地点/PLC-DATAPAWN-数据当铺.md) | 数据当铺 |
-| [PLC-CLINIC](地点/PLC-CLINIC-无人诊所.md) | 无人诊所 |
-| [PLC-PLAZA](地点/PLC-PLAZA-看板广场.md) | 看板广场 |
 | [SYS-B9002](系统/SYS-B9002-桥接体与调度核心职能.md) | 桥接体 B-9002（调度核心）与玩家职能 |
 | [SYS-WORKFORCE](系统/SYS-WORKFORCE-员工来源与编组风险.md) | 员工来源与编组风险 |
 | [SYS-CONFLICT](系统/SYS-CONFLICT-员工冲突机制.md) | 员工冲突机制 |

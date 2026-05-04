@@ -36,7 +36,8 @@ aliases:
 
 ## 第四条　关联条文
 
-- [ORG-HRDEPT](ORG-HRDEPT-社区事务人事部.md)  
-- [WLD-03](../../00-基石/WLD-03-人事部分权结构总览.md)  
-- [SYS-B9002](../系统/SYS-B9002-桥接体与调度核心职能.md)  
-- [SYS-PRIORITY](../系统/SYS-PRIORITY-委托受理与处置优先序.md)、[SYS-DELEGATION](../系统/SYS-DELEGATION-外包签字与责任转嫁.md)  
+- [ORG-HRDEPT](ORG-HRDEPT-社区事务人事部.md) 社区事务人事部  
+- [WLD-03](../../00-基石/WLD-03-人事部分权结构总览.md) 人事部分权结构总览  
+- [SYS-B9002](../系统/SYS-B9002-桥接体与调度核心职能.md) 桥接体与调度核心职能  
+- [SYS-PRIORITY](../系统/SYS-PRIORITY-委托受理与处置优先序.md) 委托受理与处置优先序  
+- [SYS-DELEGATION](../系统/SYS-DELEGATION-外包签字与责任转嫁.md) 外包、签字与责任转嫁  

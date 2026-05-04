@@ -33,7 +33,8 @@ aliases:
 
 ## 第五条　关联条文
 
-- [ORG-HRDEPT-SCO](ORG-HRDEPT-SCO-特殊综合行动小组.md)  
+- [ORG-HRDEPT-SCO](ORG-HRDEPT-SCO-特殊综合行动小组.md) 特殊综合行动小组  
 - [WLD-03](../../00-基石/WLD-03-人事部分权结构总览.md) 人事部分权结构总览  
-- [SYS-DELEGATION](../系统/SYS-DELEGATION-外包签字与责任转嫁.md)、[SYS-PRIORITY](../系统/SYS-PRIORITY-委托受理与处置优先序.md)  
-- [SYS-B9002](../系统/SYS-B9002-桥接体与调度核心职能.md)  
+- [SYS-DELEGATION](../系统/SYS-DELEGATION-外包签字与责任转嫁.md) 外包、签字与责任转嫁  
+- [SYS-PRIORITY](../系统/SYS-PRIORITY-委托受理与处置优先序.md) 委托受理与处置优先序  
+- [SYS-B9002](../系统/SYS-B9002-桥接体与调度核心职能.md) 桥接体与调度核心职能  

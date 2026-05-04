@@ -9,9 +9,13 @@ visibility: internal
 
 ## 第一条　条文性质
 
-本条为辖区内城市空间分层之**总述入口**，与基石条文 [WLD-02](../../00-基石/WLD-02-企业辖区的空间分层模型.md) 保持一致。具体地标之功能细则见地点类各子条目（[PLC-CONTRACTHALL](PLC-CONTRACTHALL-合同大厅.md)、[PLC-MAINTENANCE](PLC-MAINTENANCE-维修井口与暗面通道.md)、[PLC-DATAPAWN](PLC-DATAPAWN-数据当铺.md)、[PLC-CLINIC](PLC-CLINIC-无人诊所.md)、[PLC-PLAZA](PLC-PLAZA-看板广场.md)；亦可查 [百科目录](../README.md)）。
+本条为第九区内部空间分层之**总述入口**，与基石条文 [WLD-02](../../00-基石/WLD-02-企业辖区的空间分层模型.md) 保持一致。辖区内反复出现之公共空间**类型纲要**（非定型地名）见同条第三条；亦可查 [百科目录](../README.md)。
+
+须明确：A/B/C 为**人事部内部按阶层与掌控程度采用的工作划分**，并非官方行政意义上的街区分区。
 
 ## 第二条　三层模型摘要
+
+第九区具体地点细部仍在设计阶段；当前写作中的「A 区 / B 区 / C 区」仅作**明确地点称谓时的占位符**，不视为正式地名。
 
 | 层级 | 名称 | 功能摘要 |
 |------|------|----------|
@@ -21,12 +25,12 @@ visibility: internal
 
 ## 第三条　势力与层级之典型对应（非排他）
 
-- 狼群帮：B 层边缘交通与仓储节点；  
+- “狼群”：B 层边缘交通与仓储节点；  
 - 鬣狗帮：C 层入口与废弃网络；  
-- 花豹帮：B 层核心居住区及通往 C 层之少数通道；  
+- 花豹党：B 层核心居住区及通往 C 层之少数通道；  
 - 反抗军：C 层为主，B 层可能存在伪装节点。
 
 ## 第四条　关联条文
 
-- [WLD-02](../../00-基石/WLD-02-企业辖区的空间分层模型.md)  
-- [PLC-CONTRACTHALL](PLC-CONTRACTHALL-合同大厅.md)、[PLC-MAINTENANCE](PLC-MAINTENANCE-维修井口与暗面通道.md)、[PLC-DATAPAWN](PLC-DATAPAWN-数据当铺.md)、[PLC-CLINIC](PLC-CLINIC-无人诊所.md)、[PLC-PLAZA](PLC-PLAZA-看板广场.md)  
+- [WLD-02](../../00-基石/WLD-02-企业辖区的空间分层模型.md) 企业辖区的空间分层模型  
+- [百科目录](../README.md) 百科索引（人工维护快照）  

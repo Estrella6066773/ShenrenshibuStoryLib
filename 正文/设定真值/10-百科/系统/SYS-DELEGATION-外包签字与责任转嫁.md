@@ -21,6 +21,6 @@ visibility: internal
 
 ## 第四条　关联条文
 
-- [PLC-CONTRACTHALL](../地点/PLC-CONTRACTHALL-合同大厅.md)  
+- [WLD-02](../../00-基石/WLD-02-企业辖区的空间分层模型.md) 企业辖区的空间分层模型（契约签署类公共空间之叙事接口）  
 - [ORG-HRDEPT](../组织/ORG-HRDEPT-社区事务人事部.md)  
 - [NAR-02](../../20-叙事合同/NAR-02-玩家责任与叙事红线.md)  

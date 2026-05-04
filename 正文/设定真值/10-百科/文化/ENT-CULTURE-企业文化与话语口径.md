@@ -22,5 +22,5 @@ visibility: internal
 ## 第四条　关联条文
 
 - [ORG-HELIOS](../组织/ORG-HELIOS-赫利俄斯集团.md)  
-- [PLC-PLAZA](../地点/PLC-PLAZA-看板广场.md)  
+- [WLD-02](../../00-基石/WLD-02-企业辖区的空间分层模型.md) 企业辖区的空间分层模型（舆情宣传类公共空间之叙事接口）  
 - [NAR-00](../../20-叙事合同/NAR-00-叙事母题与基调.md)  

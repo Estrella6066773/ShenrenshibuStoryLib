@@ -27,35 +27,20 @@ entries:
     title: 特殊综合行动小组（人事部辖内）
     path: 设定真值/10-百科/组织/ORG-HRDEPT-SCO-特殊综合行动小组.md
   - id: ORG-GANG-WOLF
-    title: 狼群帮
-    path: 设定真值/10-百科/组织/ORG-GANG-WOLF-狼群帮.md
+    title: “狼群”
+    path: 设定真值/10-百科/组织/ORG-GANG-WOLF-狼群.md
   - id: ORG-GANG-HYENA
     title: 鬣狗帮
     path: 设定真值/10-百科/组织/ORG-GANG-HYENA-鬣狗帮.md
   - id: ORG-GANG-LEOPARD
-    title: 花豹帮
-    path: 设定真值/10-百科/组织/ORG-GANG-LEOPARD-花豹帮.md
+    title: 花豹党
+    path: 设定真值/10-百科/组织/ORG-GANG-LEOPARD-花豹党.md
   - id: ORG-REBEL
     title: 反抗军
     path: 设定真值/10-百科/组织/ORG-REBEL-反抗军.md
   - id: PLC-DISTRICT
     title: 街区分层与层级（总述）
     path: 设定真值/10-百科/地点/PLC-DISTRICT-街区分层与层级.md
-  - id: PLC-CONTRACTHALL
-    title: 合同集中办理场所（合同大厅）
-    path: 设定真值/10-百科/地点/PLC-CONTRACTHALL-合同大厅.md
-  - id: PLC-MAINTENANCE
-    title: 维修井口与暗面通道
-    path: 设定真值/10-百科/地点/PLC-MAINTENANCE-维修井口与暗面通道.md
-  - id: PLC-DATAPAWN
-    title: 数据当铺
-    path: 设定真值/10-百科/地点/PLC-DATAPAWN-数据当铺.md
-  - id: PLC-CLINIC
-    title: 无人诊所
-    path: 设定真值/10-百科/地点/PLC-CLINIC-无人诊所.md
-  - id: PLC-PLAZA
-    title: 看板广场
-    path: 设定真值/10-百科/地点/PLC-PLAZA-看板广场.md
   - id: SYS-B9002
     title: 桥接体 B-9002（调度核心）与玩家职能
     path: 设定真值/10-百科/系统/SYS-B9002-桥接体与调度核心职能.md
