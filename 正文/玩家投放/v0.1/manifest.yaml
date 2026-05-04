@@ -1,0 +1,35 @@
+# 玩家投放 v0.1 — 设定一致性清单（含深度考据档）
+# 本清单声明：下列 id 之对外转写与本版本游戏/社区文案应保持一致；若内部设定真值修订，须升版并更新 CHANGELOG。
+# 键名 canon_ids 为工具链兼容字段，语义即「设定真值条目 id」。
+release: "v0.1"
+locale_default: "zh-Hans"
+disclosure_profile: "extended_lore"
+canon_ids:
+  - WLD-00
+  - WLD-01
+  - WLD-02
+  - WLD-03
+  - WLD-04
+  - ORG-HELIOS
+  - ORG-HRDEPT
+  - ORG-HRDEPT-SCO
+  - ORG-GANG-WOLF
+  - ORG-GANG-HYENA
+  - ORG-GANG-LEOPARD
+  - ORG-REBEL
+  - PLC-DISTRICT
+  - PLC-CONTRACTHALL
+  - PLC-MAINTENANCE
+  - PLC-DATAPAWN
+  - PLC-CLINIC
+  - PLC-PLAZA
+  - SYS-B9002
+  - SYS-WORKFORCE
+  - SYS-CONFLICT
+  - SYS-DELEGATION
+  - SYS-PRIORITY
+  - ENT-CULTURE
+  - ENT-HUMANNEC
+  - NAR-00
+  - NAR-01
+  - NAR-02

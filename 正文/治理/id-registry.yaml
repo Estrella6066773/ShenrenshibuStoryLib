@@ -1,0 +1,88 @@
+# 设定 id 注册表（正文文档库）
+# 新增条目须在此登记后方可创建设定真值正文。
+registry_version: 1
+entries:
+  - id: WLD-00
+    title: 世界纪年与治理总纲
+    path: 设定真值/00-基石/WLD-00-世界纪年与治理总纲.md
+  - id: WLD-01
+    title: 自动化秩序与人类岗位
+    path: 设定真值/00-基石/WLD-01-自动化秩序与人类岗位.md
+  - id: WLD-02
+    title: 企业辖区的空间分层模型
+    path: 设定真值/00-基石/WLD-02-企业辖区的空间分层模型.md
+  - id: WLD-03
+    title: 人事部分权结构总览
+    path: 设定真值/00-基石/WLD-03-人事部分权结构总览.md
+  - id: WLD-04
+    title: 街区势力关系简表
+    path: 设定真值/00-基石/WLD-04-街区势力关系简表.md
+  - id: ORG-HELIOS
+    title: 赫利俄斯集团
+    path: 设定真值/10-百科/组织/ORG-HELIOS-赫利俄斯集团.md
+  - id: ORG-HRDEPT
+    title: 社区事务与临时人力调度部
+    path: 设定真值/10-百科/组织/ORG-HRDEPT-社区事务人事部.md
+  - id: ORG-HRDEPT-SCO
+    title: 特殊综合行动小组（人事部辖内）
+    path: 设定真值/10-百科/组织/ORG-HRDEPT-SCO-特殊综合行动小组.md
+  - id: ORG-GANG-WOLF
+    title: 狼群帮
+    path: 设定真值/10-百科/组织/ORG-GANG-WOLF-狼群帮.md
+  - id: ORG-GANG-HYENA
+    title: 鬣狗帮
+    path: 设定真值/10-百科/组织/ORG-GANG-HYENA-鬣狗帮.md
+  - id: ORG-GANG-LEOPARD
+    title: 花豹帮
+    path: 设定真值/10-百科/组织/ORG-GANG-LEOPARD-花豹帮.md
+  - id: ORG-REBEL
+    title: 反抗军
+    path: 设定真值/10-百科/组织/ORG-REBEL-反抗军.md
+  - id: PLC-DISTRICT
+    title: 街区分层与层级（总述）
+    path: 设定真值/10-百科/地点/PLC-DISTRICT-街区分层与层级.md
+  - id: PLC-CONTRACTHALL
+    title: 合同集中办理场所（合同大厅）
+    path: 设定真值/10-百科/地点/PLC-CONTRACTHALL-合同大厅.md
+  - id: PLC-MAINTENANCE
+    title: 维修井口与暗面通道
+    path: 设定真值/10-百科/地点/PLC-MAINTENANCE-维修井口与暗面通道.md
+  - id: PLC-DATAPAWN
+    title: 数据当铺
+    path: 设定真值/10-百科/地点/PLC-DATAPAWN-数据当铺.md
+  - id: PLC-CLINIC
+    title: 无人诊所
+    path: 设定真值/10-百科/地点/PLC-CLINIC-无人诊所.md
+  - id: PLC-PLAZA
+    title: 看板广场
+    path: 设定真值/10-百科/地点/PLC-PLAZA-看板广场.md
+  - id: SYS-B9002
+    title: 桥接体 B-9002（调度核心）与玩家职能
+    path: 设定真值/10-百科/系统/SYS-B9002-桥接体与调度核心职能.md
+  - id: SYS-WORKFORCE
+    title: 员工来源与编组风险
+    path: 设定真值/10-百科/系统/SYS-WORKFORCE-员工来源与编组风险.md
+  - id: SYS-CONFLICT
+    title: 员工冲突机制
+    path: 设定真值/10-百科/系统/SYS-CONFLICT-员工冲突机制.md
+  - id: SYS-DELEGATION
+    title: 外包、签字与责任转嫁
+    path: 设定真值/10-百科/系统/SYS-DELEGATION-外包签字与责任转嫁.md
+  - id: SYS-PRIORITY
+    title: 委托受理与处置优先序
+    path: 设定真值/10-百科/系统/SYS-PRIORITY-委托受理与处置优先序.md
+  - id: ENT-CULTURE
+    title: 企业文化与话语口径
+    path: 设定真值/10-百科/文化/ENT-CULTURE-企业文化与话语口径.md
+  - id: ENT-HUMANNEC
+    title: 人类必要性的工具性界定
+    path: 设定真值/10-百科/文化/ENT-HUMANNEC-人类必要性的工具性界定.md
+  - id: NAR-00
+    title: 叙事母题与基调
+    path: 设定真值/20-叙事合同/NAR-00-叙事母题与基调.md
+  - id: NAR-01
+    title: 主线张力与终局分型
+    path: 设定真值/20-叙事合同/NAR-01-主线张力与终局分型.md
+  - id: NAR-02
+    title: 玩家责任与叙事红线
+    path: 设定真值/20-叙事合同/NAR-02-玩家责任与叙事红线.md
