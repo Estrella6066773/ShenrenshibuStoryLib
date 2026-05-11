@@ -10,6 +10,7 @@ canon_ids:
   - WLD-02
   - WLD-03
   - WLD-04
+  - TIM-04
   - ORG-HELIOS
   - ORG-HRDEPT
   - ORG-HRDEPT-SCO
@@ -17,6 +18,7 @@ canon_ids:
   - ORG-GANG-HYENA
   - ORG-GANG-LEOPARD
   - ORG-REBEL
+  - ORG-MOV-FUF
   - PLC-DISTRICT
   - PLC-RUINS
   - SYS-B9002

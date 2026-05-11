@@ -1,5 +1,10 @@
 # 玩家投放 v0.1 变更记录
 
+## 对外读本刷新与 manifest 对齐（ORG-MOV-FUF / TIM-04）
+
+- [对外读本/00-世界观导览与阅读分层.md](对外读本/00-世界观导览与阅读分层.md)：上篇第四节补充**情报节选与旧事呈现**的对外表述；下篇第六节增补 **废墟区**、[PLC-RUINS](../../设定真值/10-百科/地点/PLC-RUINS-废墟区-第九区事变遗留片区.md)、[PLC-DISTRICT](../../设定真值/10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md)；第七节增补事变后**舆论分叉**（[ENT-AIBACKLASH](../../设定真值/10-百科/文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md)、[ORG-MOV-BRIDGECULT](../../设定真值/10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)）及 **SYS-PREV-BRIDGE** 投放提示；文档说明明确与 `manifest.yaml` 的 **`id`** 对齐关系。
+- [manifest.yaml](manifest.yaml)：`canon_ids` 补登 **ORG-MOV-FUF**、**TIM-04**，与读本既有考据链接一致。
+
 ## ORG-HRDEPT：建档称谓「人类事务管理部」与母本对齐
 
 - 设定真值、关联系统／叙事条文及对外读本已统一：集团内制度与系统登记正式称谓为 **人类事务管理部**；**人事部**是对内、对外最常用、口径上也近乎官方的称呼（口径见 [ORG-HRDEPT](../../设定真值/10-百科/组织/ORG-HRDEPT-人类事务管理部.md) 第一条）；`正文/治理/id-registry.yaml` 中 **ORG-HRDEPT** 的标题字段已同步。
