@@ -1,4 +1,4 @@
----
+﻿---
 id: ORG-REBEL
 title: 反抗军
 status: active
@@ -38,6 +38,6 @@ visibility: internal
 ## 第六条　关联条文
 
 - [WLD-02](../../00-基石/WLD-02-辖区空间分层.md) 辖区空间与城市分片（含公共空间类型纲要）  
-- [ORG-HRDEPT](ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
+- [ORG-HRDEPT](赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
 - [ORG-MOV-FUF](ORG-MOV-FUF-自由人联合阵线.md) 自由人联合阵线  
 - [NAR-01](../../20-叙事合同/NAR-01-主线张力与终局分型.md) 主线张力与终局分型

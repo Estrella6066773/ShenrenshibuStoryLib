@@ -1,4 +1,4 @@
----
+﻿---
 id: ENT-CULTURE
 title: 企业文化与话语口径
 status: active
@@ -21,6 +21,6 @@ visibility: internal
 
 ## 第四条　关联条文
 
-- [ORG-HELIOS](../组织/ORG-HELIOS-赫利俄斯集团.md)  
+- [ORG-HELIOS](../组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md)  
 - [WLD-02](../../00-基石/WLD-02-辖区空间分层.md) 辖区空间与城市分片（舆情宣传类公共空间的叙事接口）  
 - [NAR-00](../../20-叙事合同/NAR-00-叙事母题与基调.md)

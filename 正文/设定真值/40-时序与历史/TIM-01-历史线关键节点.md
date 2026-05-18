@@ -1,4 +1,4 @@
----
+﻿---
 id: TIM-01
 title: 历史线关键节点
 status: draft
@@ -43,7 +43,7 @@ visibility: internal
 ## 四、关联条文
 
 - [WLD-00](../00-基石/WLD-00-世界纪年与治理总纲.md) 世界纪年与治理总纲  
-- [ORG-HELIOS](../10-百科/组织/ORG-HELIOS-赫利俄斯集团.md) 赫利俄斯集团  
+- [ORG-HELIOS](../10-百科/组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md) 赫利俄斯集团  
 - [ORG-GANG-WOLF](../10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md) 「狼群」  
 - [ORG-MOV-FUF](../10-百科/组织/ORG-MOV-FUF-自由人联合阵线.md) 自由人联合阵线  
 - [PLC-DISTRICT](../10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md) 第九区分片与安全等级（总述）  

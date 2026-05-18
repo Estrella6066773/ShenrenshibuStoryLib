@@ -1,4 +1,4 @@
----
+﻿---
 id: SYS-DELEGATION
 title: 外包、签字与责任转嫁
 status: active
@@ -22,5 +22,5 @@ visibility: internal
 ## 第四条　关联条文
 
 - [WLD-02](../../00-基石/WLD-02-辖区空间分层.md) 辖区空间与城市分片（契约集中签署类公共空间的叙事接口）  
-- [ORG-HRDEPT](../组织/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
+- [ORG-HRDEPT](../组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
 - [NAR-02](../../20-叙事合同/NAR-02-玩家责任与叙事红线.md)

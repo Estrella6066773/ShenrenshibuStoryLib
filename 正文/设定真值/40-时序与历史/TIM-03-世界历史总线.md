@@ -1,4 +1,4 @@
----
+﻿---
 id: TIM-03
 title: 世界历史总线
 status: draft
@@ -78,4 +78,4 @@ visibility: internal
 
 - [WLD-00](../00-基石/WLD-00-世界纪年与治理总纲.md)  
 - [TIM-01](TIM-01-历史线关键节点.md)、[TIM-02](TIM-02-城市历史母线.md)、[TIM-04](TIM-04-前管理者执政与第九区事态背景年表.md)  
-- [ORG-HELIOS](../10-百科/组织/ORG-HELIOS-赫利俄斯集团.md)
+- [ORG-HELIOS](../10-百科/组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md)

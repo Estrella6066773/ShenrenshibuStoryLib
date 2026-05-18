@@ -1,4 +1,4 @@
----
+﻿---
 id: ORG-GANG-WOLF
 title: “狼群”
 status: active
@@ -47,7 +47,7 @@ visibility: internal
 
 - 某支家族绕过联合议席与人事部暗签，旧日「家族战争」留下的仇怨可能再度引爆；  
 - 保护费改包装成「物业费」引发居民反弹，人事部在舆情与秩序之间受挤压；  
-- 「狼群」要求可审计的合法外包合同，换取联合执法的制度接口；  
+- 「狼群」要求可审计的合法外包合同，换取联合执法的正式协作渠道；  
 - 内鬼泄露公司委托，争议从「是谁泄露」滑向「由哪家承担切割责任」；  
 - **代际裂缝**：老一辈记忆中「卫士」统战话术与年轻一代纯生意逻辑冲突。
 
@@ -57,6 +57,6 @@ visibility: internal
 - [SYS-PREV-BRIDGE](../../系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md)  
 - [ORG-MOV-FUF](../ORG-MOV-FUF-自由人联合阵线.md)  
 - [WLD-02](../../../00-基石/WLD-02-辖区空间分层.md)  
-- [ORG-HRDEPT](../../ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
+- [ORG-HRDEPT](../赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
 - [ORG-GANG-HYENA](ORG-GANG-HYENA-鬣狗帮.md) 鬣狗帮  
 - [ORG-GANG-LEOPARD](ORG-GANG-LEOPARD-花豹党.md) 花豹党

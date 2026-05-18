@@ -1,4 +1,4 @@
----
+﻿---
 id: SYS-PRIORITY
 title: 委托受理与处置优先序
 status: active
@@ -29,6 +29,6 @@ visibility: internal
 
 ## 第四条　关联条文
 
-- [ORG-HRDEPT](../组织/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
+- [ORG-HRDEPT](../组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
 - [ENT-CULTURE](../文化/ENT-CULTURE-企业文化与话语口径.md)  
 - [NAR-02](../../20-叙事合同/NAR-02-玩家责任与叙事红线.md)

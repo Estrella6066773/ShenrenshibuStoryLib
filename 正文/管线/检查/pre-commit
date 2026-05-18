@@ -1,0 +1,14 @@
+#!/bin/sh
+# 安装：git config core.hooksPath 正文/管线/检查
+# 勿用「rev-parse || cd && pwd」：在 sh 里会解析成 (rev-parse || cd) && pwd，
+# rev-parse 成功时仍会执行 pwd，Windows 下会把 D:/… 与 /d/… 拼成非法路径。
+
+set -e
+
+ROOT="$(git rev-parse --show-toplevel 2>/dev/null || true)"
+if [ -z "$ROOT" ]; then
+  ROOT="$(cd "$(dirname "$0")/../../.." && pwd)"
+fi
+
+cd "$ROOT" || exit 1
+exec python "正文/管线/检查/check-links.py"

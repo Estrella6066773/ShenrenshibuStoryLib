@@ -19,19 +19,19 @@ entries:
     path: 设定真值/00-基石/WLD-04-街区势力关系简表.md
   - id: ORG-HELIOS
     title: 赫利俄斯集团
-    path: 设定真值/10-百科/组织/ORG-HELIOS-赫利俄斯集团.md
+    path: 设定真值/10-百科/组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md
   - id: ORG-MILDEPT
     title: 军用武装管理部（通称军武部／军部）
-    path: 设定真值/10-百科/组织/ORG-MILDEPT-军部.md
+    path: 设定真值/10-百科/组织/赫利俄斯/ORG-MILDEPT-军用武装管理部.md
   - id: ORG-TECHDEPT
     title: 技术研发管理部（通称技术部）
-    path: 设定真值/10-百科/组织/ORG-TECHDEPT-技术部.md
+    path: 设定真值/10-百科/组织/赫利俄斯/ORG-TECHDEPT-技术研发管理部.md
   - id: ORG-HRDEPT
     title: 人类事务管理部（通称人事部）
-    path: 设定真值/10-百科/组织/ORG-HRDEPT-人类事务管理部.md
+    path: 设定真值/10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md
   - id: ORG-HRDEPT-SCO
-    title: 特殊综合行动小组（人事部辖内）
-    path: 设定真值/10-百科/组织/ORG-HRDEPT-SCO-特殊综合行动小组.md
+    title: 特殊综合行动小组（隶属人事部）
+    path: 设定真值/10-百科/组织/赫利俄斯/ORG-HRDEPT-SCO-特殊综合行动小组.md
   - id: ORG-GANG-WOLF
     title: “狼群”
     path: 设定真值/10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md
@@ -110,3 +110,21 @@ entries:
   - id: ORG-MOV-FUF
     title: 自由人联合阵线
     path: 设定真值/10-百科/组织/ORG-MOV-FUF-自由人联合阵线.md
+  - id: CHR-MOEN
+    title: 摩恩夫人（前服务科科长）
+    path: 设定真值/10-百科/人物/CHR-MOEN-摩恩夫人.md
+  - id: CHR-KAELEN-VOLOK
+    title: 科恩·沃洛克
+    path: 设定真值/10-百科/人物/CHR-KAELEN-VOLOK-科恩·沃洛克.md
+  - id: CHR-LYNWEI-CHANDRA
+    title: 凌薇·钱德拉
+    path: 设定真值/10-百科/人物/CHR-LYNWEI-CHANDRA-凌薇·钱德拉.md
+  - id: CHR-SERENA-DAY
+    title: 瑟琳娜·昼
+    path: 设定真值/10-百科/人物/CHR-SERENA-DAY-瑟琳娜·昼.md
+  - id: CHR-ISAAC-MOELLER
+    title: 艾萨克·穆尔
+    path: 设定真值/10-百科/人物/CHR-ISAAC-MOELLER-艾萨克·穆尔.md
+  - id: CHR-SOLEN-ELI
+    title: 伊莱·索伦
+    path: 设定真值/10-百科/人物/CHR-SOLEN-ELI-伊莱·索伦.md

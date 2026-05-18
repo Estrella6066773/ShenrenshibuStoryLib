@@ -1,4 +1,4 @@
----
+﻿---
 id: ENT-AIBACKLASH
 title: 人工智能污名与第九区事变情绪遗产
 status: active
@@ -25,5 +25,5 @@ visibility: internal
 
 - [SYS-PREV-BRIDGE](../系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md)  
 - [ORG-MOV-BRIDGECULT](../组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)  
-- [ORG-HRDEPT](../组织/ORG-HRDEPT-人类事务管理部.md)  
+- [ORG-HRDEPT](../组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md)  
 - [SYS-B9002](../系统/SYS-B9002-桥接体与调度核心职能.md)

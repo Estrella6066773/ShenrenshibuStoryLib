@@ -1,6 +1,6 @@
 # 百科
 
-本目录以**稳定标识符 `id`** 为主键组织条目，并按「组织 / 地点 / 系统 / 文化」四类落在对应子文件夹里，方便人手翻阅。
+本目录以**稳定标识符 `id`** 为主键组织条目，并按「组织 / 地点 / 系统 / 文化 / 人物」落在对应子文件夹里，方便人手翻阅。
 
 条目之间的逻辑关系，以正文互引以及 [治理/id-registry.yaml](../../治理/id-registry.yaml) 中的登记为准。世界基石条文见 [设定真值/00-基石/](../00-基石/)。叙事取向与红线见叙事合同 [NAR-00](../20-叙事合同/NAR-00-叙事母题与基调.md)、[NAR-01](../20-叙事合同/NAR-01-主线张力与终局分型.md)、[NAR-02](../20-叙事合同/NAR-02-玩家责任与叙事红线.md)；总览见 [叙事合同 README](../20-叙事合同/README.md)。
 
@@ -14,11 +14,11 @@
 
 | id | 标题 |
 |----|------|
-| [ORG-HELIOS](组织/ORG-HELIOS-赫利俄斯集团.md) | 赫利俄斯集团 |
-| [ORG-MILDEPT](组织/ORG-MILDEPT-军部.md) | 军用武装管理部（通称军武部／军部） |
-| [ORG-TECHDEPT](组织/ORG-TECHDEPT-技术部.md) | 技术研发管理部（通称技术部） |
-| [ORG-HRDEPT](组织/ORG-HRDEPT-人类事务管理部.md) | 人类事务管理部（通称人事部） |
-| [ORG-HRDEPT-SCO](组织/ORG-HRDEPT-SCO-特殊综合行动小组.md) | 特殊综合行动小组 |
+| [ORG-HELIOS](组织/赫利俄斯/ORG-HELIOS-赫利俄斯集团.md) | 赫利俄斯集团 |
+| [ORG-MILDEPT](组织/赫利俄斯/ORG-MILDEPT-军用武装管理部.md) | 军用武装管理部（通称军武部／军部） |
+| [ORG-TECHDEPT](组织/赫利俄斯/ORG-TECHDEPT-技术研发管理部.md) | 技术研发管理部（通称技术部） |
+| [ORG-HRDEPT](组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) | 人类事务管理部（通称人事部） |
+| [ORG-HRDEPT-SCO](组织/赫利俄斯/ORG-HRDEPT-SCO-特殊综合行动小组.md) | 特殊综合行动小组 |
 | [ORG-GANG-WOLF](组织/帮派/ORG-GANG-WOLF-狼群.md) | “狼群” |
 | [ORG-GANG-HYENA](组织/帮派/ORG-GANG-HYENA-鬣狗帮.md) | 鬣狗帮 |
 | [ORG-GANG-LEOPARD](组织/帮派/ORG-GANG-LEOPARD-花豹党.md) | 花豹党 |
@@ -36,3 +36,9 @@
 | [ENT-CULTURE](文化/ENT-CULTURE-企业文化与话语口径.md) | 企业文化与话语口径 |
 | [ENT-HUMANNEC](文化/ENT-HUMANNEC-对人类必要性的工具化界定.md) | 对人类必要性的工具化界定 |
 | [ENT-AIBACKLASH](文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md) | 人工智能污名与第九区事变情绪遗产 |
+| [CHR-SOLEN-ELI](人物/CHR-SOLEN-ELI-伊莱·索伦.md) | 伊莱·索伦（人事部部长） |
+| [CHR-KAELEN-VOLOK](人物/CHR-KAELEN-VOLOK-科恩·沃洛克.md) | 科恩·沃洛克（防卫科科长） |
+| [CHR-ISAAC-MOELLER](人物/CHR-ISAAC-MOELLER-艾萨克·穆尔.md) | 艾萨克·穆尔（服务科科长） |
+| [CHR-SERENA-DAY](人物/CHR-SERENA-DAY-瑟琳娜·昼.md) | 瑟琳娜·昼（人力科科长） |
+| [CHR-LYNWEI-CHANDRA](人物/CHR-LYNWEI-CHANDRA-凌薇·钱德拉.md) | 凌薇·钱德拉（财务科科长） |
+| [CHR-MOEN](人物/CHR-MOEN-摩恩夫人.md) | 摩恩夫人（前服务科科长） |

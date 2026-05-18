@@ -1,4 +1,4 @@
----
+﻿---
 id: PLC-DISTRICT
 title: 第九区分片与安全等级（总述）
 status: active
@@ -44,7 +44,7 @@ visibility: internal
 
 - [WLD-02](../../00-基石/WLD-02-辖区空间分层.md) 辖区空间与城市分片  
 - [PLC-RUINS](PLC-RUINS-废墟区-第九区事变遗留片区.md) 废墟区  
-- [ORG-HRDEPT](../组织/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
+- [ORG-HRDEPT](../组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
 - [ORG-MOV-FUF](../组织/ORG-MOV-FUF-自由人联合阵线.md) 自由人联合阵线  
 - [百科目录](../README.md) 百科索引（人工维护快照）  
 - [主参考图：地区划分（PNG）](参考/主要-地区划分参考.png) 第九区空间示意（非比例尺；地理位置以此为准）
