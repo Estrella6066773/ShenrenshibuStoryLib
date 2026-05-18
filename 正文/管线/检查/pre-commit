@@ -1,7 +1,6 @@
 #!/bin/sh
+# 提交前：尝试自动修正 正文/ 内链接 → 复检 → 将修正纳入暂存区
 # 安装：git config core.hooksPath 正文/管线/检查
-# 勿用「rev-parse || cd && pwd」：在 sh 里会解析成 (rev-parse || cd) && pwd，
-# rev-parse 成功时仍会执行 pwd，Windows 下会把 D:/… 与 /d/… 拼成非法路径。
 
 set -e
 
@@ -11,4 +10,4 @@ if [ -z "$ROOT" ]; then
 fi
 
 cd "$ROOT" || exit 1
-exec python "正文/管线/检查/check-links.py"
+exec python "正文/管线/检查/check-links.py" --fix --stage-fixed
