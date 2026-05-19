@@ -1,11 +1,14 @@
-﻿---
+---
 id: SYS-PRIORITY
 title: 委托受理与处置优先序
 status: active
 visibility: internal
+entry_kind: institution_rule
 ---
 
 # 委托受理与处置优先序
+
+> **条目性质**：资源冲突时人事部的**默认优先序**（制度规则），不是桥 B-9002 的运行逻辑。玩家实例见 [SYS-B9002](../系统/SYS-B9002-桥与玩家职能.md)。
 
 ## 第一条　受理条件（类型）
 

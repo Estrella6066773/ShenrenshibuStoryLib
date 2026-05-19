@@ -9,7 +9,7 @@ visibility: internal
 
 ## 第一条　议题定位
 
-本条归纳 **辖区／废墟事变之后**，公共话语里针对 **管理者人工智能、桥接体席位及 AI 治理想象** 的长期情绪沉淀；制度因果见 [SYS-PREV-BRIDGE](../系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md)，时间骨架见 [TIM-04](../../40-时序与历史/TIM-04-前管理者执政与第九区事态背景年表.md)。
+本条归纳 **辖区／废墟事变之后**，公共话语里针对 **管理者人工智能、桥席位及 AI 治理想象** 的长期情绪沉淀；制度因果见 [SYS-PREV-BRIDGE](../系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md)，时间骨架见 [TIM-04](../../40-时序与历史/TIM-04-前任管理员执政与第九区事态背景年表.md)。
 
 ## 第二条　常见捆绑图景
 
@@ -23,7 +23,7 @@ visibility: internal
 
 ## 第四条　关联条文
 
-- [SYS-PREV-BRIDGE](../系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md)  
+- [SYS-PREV-BRIDGE](../系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md)  
 - [ORG-MOV-BRIDGECULT](../组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md)  
 - [ORG-HRDEPT](../组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md)  
-- [SYS-B9002](../系统/SYS-B9002-桥接体与调度核心职能.md)
+- [SYS-B9002](../系统/SYS-B9002-桥与玩家职能.md)

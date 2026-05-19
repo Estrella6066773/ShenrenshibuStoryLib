@@ -51,23 +51,23 @@ entries:
     title: 废墟区（第九区事变遗留片区）
     path: 设定真值/10-百科/地点/PLC-RUINS-废墟区-第九区事变遗留片区.md
   - id: SYS-B9002
-    title: 桥接体 B-9002（调度核心）与玩家职能
-    path: 设定真值/10-百科/系统/SYS-B9002-桥接体与调度核心职能.md
+    title: 桥 B-9002 与玩家职能
+    path: 设定真值/10-百科/系统/SYS-B9002-桥与玩家职能.md
   - id: SYS-PREV-BRIDGE
-    title: 前任桥接体与第九区废墟事变（作者真值分层）
-    path: 设定真值/10-百科/系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md
+    title: 前任管理员与第九区废墟事变（作者真值分层）
+    path: 设定真值/10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md
   - id: SYS-WORKFORCE
     title: 员工来源与编组风险
-    path: 设定真值/10-百科/系统/SYS-WORKFORCE-员工来源与编组风险.md
+    path: 设定真值/10-百科/规则/SYS-WORKFORCE-员工来源与编组风险.md
   - id: SYS-CONFLICT
     title: 员工冲突机制
-    path: 设定真值/10-百科/系统/SYS-CONFLICT-员工冲突机制.md
+    path: 设定真值/10-百科/规则/SYS-CONFLICT-员工冲突机制.md
   - id: SYS-DELEGATION
     title: 外包、签字与责任转嫁
-    path: 设定真值/10-百科/系统/SYS-DELEGATION-外包签字与责任转嫁.md
+    path: 设定真值/10-百科/规则/SYS-DELEGATION-外包签字与责任转嫁.md
   - id: SYS-PRIORITY
     title: 委托受理与处置优先序
-    path: 设定真值/10-百科/系统/SYS-PRIORITY-委托受理与处置优先序.md
+    path: 设定真值/10-百科/规则/SYS-PRIORITY-委托受理与处置优先序.md
   - id: ENT-CULTURE
     title: 企业文化与话语口径
     path: 设定真值/10-百科/文化/ENT-CULTURE-企业文化与话语口径.md
@@ -78,7 +78,7 @@ entries:
     title: 人工智能污名与第九区事变情绪遗产
     path: 设定真值/10-百科/文化/ENT-AIBACKLASH-人工智能污名与第九区事变情绪遗产.md
   - id: ORG-MOV-BRIDGECULT
-    title: 彼岸范式参照运动（前任桥接体隐秘追随网络）
+    title: 彼岸范式参照运动（前任管理员隐秘追随网络）
     path: 设定真值/10-百科/组织/ORG-MOV-BRIDGECULT-彼岸范式参照运动.md
   - id: NAR-00
     title: 叙事母题与基调
@@ -108,8 +108,8 @@ entries:
     title: 世界历史总线
     path: 设定真值/40-时序与历史/TIM-03-世界历史总线.md
   - id: TIM-04
-    title: 前管理者执政与第九区事态背景年表
-    path: 设定真值/40-时序与历史/TIM-04-前管理者执政与第九区事态背景年表.md
+    title: 前任管理员执政与第九区事态背景年表
+    path: 设定真值/40-时序与历史/TIM-04-前任管理员执政与第九区事态背景年表.md
   - id: ORG-MOV-FUF
     title: 自由人联合阵线
     path: 设定真值/10-百科/组织/ORG-MOV-FUF-自由人联合阵线.md

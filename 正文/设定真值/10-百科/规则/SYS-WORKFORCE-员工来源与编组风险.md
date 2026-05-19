@@ -1,11 +1,14 @@
-﻿---
+---
 id: SYS-WORKFORCE
 title: 员工来源与编组风险
 status: active
 visibility: internal
+entry_kind: institution_rule
 ---
 
 # 员工来源与编组风险
+
+> **条目性质**：人手来源分类与编组前提（**制度规则**），不是人工智能系统。桥如何接委托见 [SYS-B9002](../系统/SYS-B9002-桥与玩家职能.md)。
 
 ## 第一条　总原则
 
@@ -29,4 +32,4 @@ visibility: internal
 
 - [ORG-HRDEPT](../组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
 - [SYS-CONFLICT](SYS-CONFLICT-员工冲突机制.md)  
-- [SYS-B9002](SYS-B9002-桥接体与调度核心职能.md)
+- [SYS-B9002](../系统/SYS-B9002-桥与玩家职能.md)

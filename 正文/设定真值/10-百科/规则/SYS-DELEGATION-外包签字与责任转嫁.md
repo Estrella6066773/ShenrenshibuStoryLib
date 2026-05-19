@@ -1,11 +1,14 @@
-﻿---
+---
 id: SYS-DELEGATION
 title: 外包、签字与责任转嫁
 status: active
 visibility: internal
+entry_kind: institution_rule
 ---
 
 # 外包、签字与责任转嫁
+
+> **条目性质**：人事部/集团的**制度规则**（责任链、人类签字接口），不是「桥」类人工智能系统。桥实例见 [SYS-B9002](../系统/SYS-B9002-桥与玩家职能.md)。
 
 ## 第一条　制度目的
 

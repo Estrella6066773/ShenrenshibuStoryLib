@@ -38,4 +38,4 @@ visibility: internal
 
 - [ENT-HUMANNEC](../10-百科/文化/ENT-HUMANNEC-对人类必要性的工具化界定.md) 对人类必要性的工具化界定  
 - [ORG-HRDEPT](../10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
-- [SYS-WORKFORCE](../10-百科/系统/SYS-WORKFORCE-员工来源与编组风险.md) 员工来源与编组风险  
+- [SYS-WORKFORCE](../10-百科/规则/SYS-WORKFORCE-员工来源与编组风险.md) 员工来源与编组风险  

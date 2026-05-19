@@ -3,11 +3,14 @@ id: SYS-CONFLICT
 title: 员工冲突机制
 status: active
 visibility: internal
+entry_kind: institution_rule
 ---
 
 # 员工冲突机制
 
-## 第一条　系统性定位
+> **条目性质**：编组与任务压力下的**冲突谱系**（制度后果），不是 AI 系统模块。桥实例见 [SYS-B9002](../系统/SYS-B9002-桥与玩家职能.md)。
+
+## 第一条　制度性定位
 
 此处的员工冲突是**制度挤压出来的结果**，不是偶发口角。根因是高风险人群混编、目标压力大和资源紧张。
 
@@ -30,5 +33,5 @@ visibility: internal
 
 ## 第五条　关联条文
 
-- [SYS-B9002](SYS-B9002-桥接体与调度核心职能.md)、[SYS-WORKFORCE](SYS-WORKFORCE-员工来源与编组风险.md)  
+- [SYS-B9002](../系统/SYS-B9002-桥与玩家职能.md)、[SYS-WORKFORCE](SYS-WORKFORCE-员工来源与编组风险.md)  
 - [ENT-CULTURE](../文化/ENT-CULTURE-企业文化与话语口径.md)

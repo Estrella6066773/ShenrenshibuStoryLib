@@ -81,7 +81,7 @@ visibility: internal
 - [PLC-DISTRICT](../10-百科/地点/PLC-DISTRICT-街区分层与层级-总述.md) 第九区分片与安全等级（总述）  
 - [PLC-RUINS](../10-百科/地点/PLC-RUINS-废墟区-第九区事变遗留片区.md) 废墟区  
 - [ORG-HRDEPT](../10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
-- [SYS-PREV-BRIDGE](../10-百科/系统/SYS-PREV-BRIDGE-前任桥接体与第九区废墟事变.md) 前任桥接体与第九区废墟事变（成因分层）  
+- [SYS-PREV-BRIDGE](../10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md) 前任管理员与第九区废墟事变（成因分层）  
 - [ORG-MOV-FUF](../10-百科/组织/ORG-MOV-FUF-自由人联合阵线.md) 自由人联合阵线  
 - [ORG-GANG-WOLF](../10-百科/组织/帮派/ORG-GANG-WOLF-狼群.md)、[ORG-GANG-HYENA](../10-百科/组织/帮派/ORG-GANG-HYENA-鬣狗帮.md)、[ORG-GANG-LEOPARD](../10-百科/组织/帮派/ORG-GANG-LEOPARD-花豹党.md)、[ORG-REBEL](../10-百科/组织/ORG-REBEL-反抗军.md) 各势力的地盘与行事风格  
-- [SYS-PRIORITY](../10-百科/系统/SYS-PRIORITY-委托受理与处置优先序.md) 委托受理与处置优先序  
+- [SYS-PRIORITY](../10-百科/规则/SYS-PRIORITY-委托受理与处置优先序.md) 委托受理与处置优先序  
