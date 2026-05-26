@@ -1,0 +1,28 @@
+---
+description: 文档「最后更新」日期须以本机或联网实查为准
+globs: Docs/**/*
+alwaysApply: false
+---
+
+# 文档更新日期
+
+编辑 `Docs/` 并写入或修改 **「最后更新」**、修订记录日期时：
+
+## 禁止
+
+- **不要**仅凭对话里的日期或记忆猜日期。
+- **不要**复制相邻文档的旧日期而不核对。
+
+## 必须（二选一，优先本地脚本）
+
+1. **推荐**：在 Unity 工程根目录执行  
+   `powershell -NoProfile -File Scripts/Get-DocsDate.ps1`  
+   将输出（`yyyy-MM-dd`）写入 `最后更新` 与当日修订记录行。
+2. **备选**：Shell 执行 `Get-Date -Format "yyyy-MM-dd"`。
+
+需要核对时区或写修订说明时间戳时，使用  
+`Scripts/Get-DocsDate.ps1 -Full`。
+
+## 成对更新
+
+同一主题若同时改 `系统设计/` 与 `程序设计/`，两边文首 `最后更新` 使用**同一次**脚本输出的日期。

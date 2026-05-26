@@ -1,0 +1,116 @@
+# Unity 项目 Git 忽略规则
+# 基于 https://github.com/github/gitignore/blob/main/Unity.gitignore
+# 并与项目 ignore.conf（Plastic SCM / Unity Version Control）对齐
+#
+# 资源与 Unity 工程配置由 UVC 管理，Git 不提交：
+#   Assets/、ProjectSettings/
+/[Aa]ssets/
+/[Pp]roject[Ss]ettings/
+
+# Unity 缓存与生成目录
+.utmp/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.log
+
+# Blender 备份
+*.blend1
+*.blend1.meta
+
+# 内存快照与录屏
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# JetBrains Rider
+/[Aa]ssets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# Visual Studio / Gradle / IDE
+.vs/
+.gradle/
+.vscode/
+.idea/
+
+# 自动生成的 IDE 工程文件
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity 生成的 meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# 崩溃与 Mono
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+
+# 构建产物
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# TestRunner
+InitTestScene*.unity*
+
+# Addressables
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Visual Scripting 自动生成
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# Play Mode 测试场景
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# 场景依赖缓存
+/[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Plastic SCM / Unity Version Control（Git 不提交）
+.plastic/
+*.private
+*.private.meta
+
+# Plastic SCM 插件（若存在）
+/[Aa]ssets/Plugins/PlasticSCM*
+
+# Unity 目录监视临时文件
+~UnityDirMonSyncFile~*
+
+# 操作系统
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini

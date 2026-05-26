@@ -1,0 +1,29 @@
+# 设定设计层：内部链接与 manifest 一致性（文档子模块）
+name: StoryLib link check
+
+on:
+  push:
+    paths:
+      - "Docs/ShenrenshibuStoryLib/设定设计/**"
+      - ".github/workflows/storylib-links.yml"
+  pull_request:
+    paths:
+      - "Docs/ShenrenshibuStoryLib/设定设计/**"
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: Docs/ShenrenshibuStoryLib
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run check-links.py
+        run: python 设定设计/管线/检查/check-links.py

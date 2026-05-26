@@ -1,0 +1,4 @@
+[submodule "Docs/ShenrenshibuStoryLib"]
+	path = Docs/ShenrenshibuStoryLib
+	url = git@github.com:Estrella6066773/ShenrenshibuStoryLib.git
+	branch = main

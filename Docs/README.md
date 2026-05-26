@@ -1,0 +1,56 @@
+# 《神人事部》项目文档
+
+本目录存放**系统设计**、**程序设计**与**设定设计**，与 Unity 工程资源（`Assets/`）分离。正文在 Git 子模块 [ShenrenshibuStoryLib](ShenrenshibuStoryLib/)（`Estrella6066773/ShenrenshibuStoryLib`）。
+
+## 目录结构
+
+| 目录 | 用途 |
+|------|------|
+| [系统设计/](系统设计/) | 玩家体验、玩法规则、流程、数值**设计意图** |
+| [程序设计/](程序设计/) | 运行时架构、逻辑规范、数据字典、引擎映射 |
+| [设定设计/](设定设计/) | 世界观、角色、叙事真值、玩家投放 |
+| [ShenrenshibuStoryLib/](ShenrenshibuStoryLib/) | 上述三分库的 Git 子模块（单一事实源） |
+
+## 分工
+
+| 库 | 回答的问题 | 典型读者 |
+|----|------------|----------|
+| **系统设计** | 玩起来是什么、规则**理应**怎样 | 策划、测试、全员对齐 |
+| **程序设计** | 用什么表、模块与数据**具体**实现 | 程序、技术策划 |
+| **设定设计** | 世界与故事是什么 | 叙事、美术 |
+
+同一主题用链接成对维护，索引见 [程序设计/文档配对索引](ShenrenshibuStoryLib/程序设计/文档配对索引.md)。
+
+## 与工程的关系
+
+```
+神人事部/
+├── Assets/          ← Unity 资源（UVC）
+├── Docs/            ← 本目录（Git + 子模块）
+├── ProjectSettings/
+└── ...
+```
+
+- **玩法与体验**以 `系统设计/` 为准。  
+- **实现与追溯**以 `程序设计/` 为准。  
+- **叙事与设定**以 `设定设计/` 为准。  
+
+## 快速入口
+
+| 我要…… | 去看 |
+|--------|------|
+| 文档库总览 | [ShenrenshibuStoryLib/00-文档库总览.md](ShenrenshibuStoryLib/00-文档库总览.md) |
+| 需求 | [ShenrenshibuStoryLib/系统设计/02-需求/需求总览.md](ShenrenshibuStoryLib/系统设计/02-需求/需求总览.md) |
+| 实现 | [ShenrenshibuStoryLib/程序设计/04-实现/实现总览.md](ShenrenshibuStoryLib/程序设计/04-实现/实现总览.md) |
+| 设定 / 叙事 | [ShenrenshibuStoryLib/设定设计/00-START-HERE.md](ShenrenshibuStoryLib/设定设计/00-START-HERE.md) |
+
+## Git 操作
+
+```powershell
+# Unity 主仓（根目录）：配置与子模块指针
+git status
+
+# 文档正文（子模块）
+cd Docs\ShenrenshibuStoryLib
+git push origin main
+```

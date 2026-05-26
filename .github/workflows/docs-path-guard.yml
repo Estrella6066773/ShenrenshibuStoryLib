@@ -1,0 +1,30 @@
+# 防止工程文档回退到 Assets/00_Docs（应由 Git 子模块 Docs/ 管理）
+name: Docs path guard
+
+on:
+  pull_request:
+  push:
+    branches: [main, master]
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fail if new markdown under Assets/00_Docs
+        shell: bash
+        run: |
+          set -e
+          if git rev-parse --verify HEAD~1 >/dev/null 2>&1; then
+            RANGE="HEAD~1..HEAD"
+          else
+            RANGE="HEAD"
+          fi
+          ADDED=$(git diff --name-only --diff-filter=A "$RANGE" -- 'Assets/00_Docs/*.md' 'Assets/00_Docs/**/*.md' || true)
+          if [ -n "$ADDED" ]; then
+            echo "::error::Do not add Markdown under Assets/00_Docs. Use Docs/ShenrenshibuStoryLib/ instead:"
+            echo "$ADDED"
+            exit 1
+          fi
+          echo "OK: no new Assets/00_Docs markdown"
