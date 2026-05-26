@@ -2,7 +2,8 @@
 # 基于 https://github.com/github/gitignore/blob/main/Unity.gitignore
 # 并与项目 ignore.conf（Plastic SCM / Unity Version Control）对齐
 #
-# Git 本仓库只负责文档（Docs/）；程序实现与 Unity 资源由 UVC 管理：
+# 远程：github.com/Estrella6066773/ShenrenshibuStoryLib
+# Git 只负责文档（Docs/）；程序实现与 Unity 资源由 UVC 管理：
 #   Assets/、ProjectSettings/ — 切勿 git add
 /[Aa]ssets/
 /[Pp]roject[Ss]ettings/
