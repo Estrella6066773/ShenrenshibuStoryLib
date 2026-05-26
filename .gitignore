@@ -2,10 +2,11 @@
 # 基于 https://github.com/github/gitignore/blob/main/Unity.gitignore
 # 并与项目 ignore.conf（Plastic SCM / Unity Version Control）对齐
 #
-# 资源与 Unity 工程配置由 UVC 管理，Git 不提交：
-#   Assets/、ProjectSettings/
+# Git 本仓库只负责文档（Docs/）；程序实现与 Unity 资源由 UVC 管理：
+#   Assets/、ProjectSettings/ — 切勿 git add
 /[Aa]ssets/
 /[Pp]roject[Ss]ettings/
+/[Pp]ackages/
 
 # Unity 缓存与生成目录
 .utmp/
