@@ -54,20 +54,12 @@ entries:
     title: 桥 B-9002 与玩家职能
     path: 设定真值/10-百科/系统/SYS-B9002-桥与玩家职能.md
   - id: SYS-PREV-BRIDGE
-    title: 前任管理员与第九区废墟事变（作者真值分层）
+    title: 前任管理员与第九区废墟事变（设定事实分层）
     path: 设定真值/10-百科/系统/SYS-PREV-BRIDGE-前任管理员与第九区废墟事变.md
-  - id: SYS-WORKFORCE
-    title: 员工来源与编组风险
-    path: 设定真值/10-百科/规则/SYS-WORKFORCE-员工来源与编组风险.md
-  - id: SYS-CONFLICT
-    title: 员工冲突机制
-    path: 设定真值/10-百科/规则/SYS-CONFLICT-员工冲突机制.md
-  - id: SYS-DELEGATION
-    title: 外包、签字与责任转嫁
-    path: 设定真值/10-百科/规则/SYS-DELEGATION-外包签字与责任转嫁.md
-  - id: SYS-PRIORITY
-    title: 委托受理与处置优先序
-    path: 设定真值/10-百科/规则/SYS-PRIORITY-委托受理与处置优先序.md
+  - id: SYS-ANVIL-BIFORM
+    title: 双面砧计划（ANVIL-BIFORM）
+    path: 设定真值/10-百科/系统/SYS-ANVIL-BIFORM-双面砧计划.md
+
   - id: ENT-CULTURE
     title: 企业文化与话语口径
     path: 设定真值/10-百科/文化/ENT-CULTURE-企业文化与话语口径.md

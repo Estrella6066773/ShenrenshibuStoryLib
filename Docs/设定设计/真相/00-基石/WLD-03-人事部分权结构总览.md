@@ -60,5 +60,4 @@ visibility: internal
 - [ORG-HRDEPT](../10-百科/组织/赫利俄斯/ORG-HRDEPT-人类事务管理部.md) 人类事务管理部（通称人事部）  
 - [ORG-MILDEPT](../10-百科/组织/赫利俄斯/ORG-MILDEPT-军用武装管理部.md) 军用武装管理部（通称军武部／军部）  
 - [ORG-HRDEPT-SCO](../10-百科/组织/赫利俄斯/ORG-HRDEPT-SCO-特殊综合行动小组.md)  
-- [SYS-DELEGATION](../10-百科/规则/SYS-DELEGATION-外包签字与责任转嫁.md)  
-- [SYS-PRIORITY](../10-百科/规则/SYS-PRIORITY-委托受理与处置优先序.md)  
+  
